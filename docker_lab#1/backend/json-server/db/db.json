@@ -1,0 +1,19 @@
+{
+  "team_members": [
+    {
+      "id": 1,
+      "firstname": "Oleksandr",
+      "lastname": "Goncharuk"
+    },
+    {
+      "id": 2,
+      "firstname": "Dmytro",
+      "lastname": "Kyrychenko"
+    },
+    {
+      "id": 3,
+      "firstname": "Taras",
+      "lastname": "Trubaichuk"
+    }
+  ]
+}
